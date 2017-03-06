@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &122196
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 496168}
+  - 60: {fileID: 6007814}
+  m_Layer: 0
+  m_Name: CaveWallObstacle02
+  m_TagString: Wall
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &496168
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 122196}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -6.00472164, y: 4.23549652, z: .001953125}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!60 &6007814
+PolygonCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 122196}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_Offset: {x: 0, y: 0}
+  m_Points:
+    m_Paths:
+    - - {x: 14.9372034, y: 3.33795166}
+      - {x: 14.7921429, y: 4.65613556}
+      - {x: 15.2214479, y: 5.38733673}
+      - {x: 30.7217407, y: 5.44371796}
+      - {x: 30.5412865, y: -1.89608002}
+      - {x: 27.1698456, y: -2.4879837}
+      - {x: 24.4886665, y: -2.0845108}
+      - {x: 21.9198761, y: -2.47932434}
+      - {x: 21.1019325, y: -.799667358}
+      - {x: 20.3283558, y: -1.08413696}
+      - {x: 19.3120956, y: -2.0993042}
+      - {x: 15.8750629, y: -1.98773193}
+      - {x: 15.9424572, y: -.278495789}
+      - {x: 15.2430096, y: .43813324}
+      - {x: 15.5559902, y: 2.0021286}
+      - {x: 14.8263559, y: 2.94680023}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 122196}
+  m_IsPrefabParent: 1

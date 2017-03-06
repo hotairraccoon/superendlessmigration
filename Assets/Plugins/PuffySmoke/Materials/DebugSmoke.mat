@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: DebugSmoke
+  m_Shader: {fileID: 4800000, guid: 066c269a7d6db9f4ea384689f0125a85, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 8283bac8c6b68234c9cf48ab30b6feb7, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _InvFade
+        second: .687611938
+      data:
+        first:
+          name: _FadeIn
+        second: .100000001
+      data:
+        first:
+          name: _Opacity
+        second: 1
+      data:
+        first:
+          name: _Scattering
+        second: 0
+      data:
+        first:
+          name: _EmissiveDensity
+        second: .100000001
+      data:
+        first:
+          name: _Density
+        second: 0
+      data:
+        first:
+          name: _Sharpness
+        second: 0
+      data:
+        first:
+          name: _DetailsSpeed
+        second: .00999999978
+      data:
+        first:
+          name: _DetailsFadeout
+        second: 0
+      data:
+        first:
+          name: _LightProgression
+        second: .582089543
+      data:
+        first:
+          name: _MaxOpacity
+        second: .261193991
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _ShadowColor
+        second: {r: 0, g: 0, b: 0, a: 0}
+      data:
+        first:
+          name: _TintColor
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _EnvironmentColor
+        second: {r: 0, g: 0, b: .368627459, a: 1}

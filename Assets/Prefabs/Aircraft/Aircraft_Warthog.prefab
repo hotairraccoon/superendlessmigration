@@ -1,0 +1,307 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &154868
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 495280}
+  - 212: {fileID: 21295958}
+  - 114: {fileID: 11408060}
+  - 50: {fileID: 5084268}
+  - 60: {fileID: 6010286}
+  - 114: {fileID: 11482910}
+  - 114: {fileID: 11480334}
+  - 114: {fileID: 11408524}
+  - 114: {fileID: 11488106}
+  m_Layer: 0
+  m_Name: Aircraft_Warthog
+  m_TagString: Aircraft
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &495280
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 154868}
+  m_LocalRotation: {x: 0, y: 0, z: .718142629, w: .695896029}
+  m_LocalPosition: {x: 4.5, y: 61.4700012, z: 100}
+  m_LocalScale: {x: .649999976, y: .649999976, z: .649999976}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!50 &5084268
+Rigidbody2D:
+  serializedVersion: 2
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 154868}
+  m_Mass: 9.99999975e-05
+  m_LinearDrag: 0
+  m_AngularDrag: 0
+  m_GravityScale: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!60 &6010286
+PolygonCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 154868}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_Offset: {x: 0, y: 0}
+  m_Points:
+    m_Paths:
+    - - {x: .529999971, y: -1.29999995}
+      - {x: .589999974, y: -1.11000001}
+      - {x: .409999996, y: -1.01999998}
+      - {x: .460000008, y: -.75}
+      - {x: .600000024, y: -.75999999}
+      - {x: .660000026, y: -.540000021}
+      - {x: .419999987, y: -.49000001}
+      - {x: .419999987, y: -.319999993}
+      - {x: .409999996, y: -.25999999}
+      - {x: 1.49000001, y: -.270000011}
+      - {x: 1.67999995, y: -.230000004}
+      - {x: 1.77999997, y: -.189999998}
+      - {x: 1.95000005, y: -.0700000003}
+      - {x: 1.95000005, y: .0700000003}
+      - {x: 1.90999997, y: .159999996}
+      - {x: 1.58000004, y: .270000011}
+      - {x: 1.12, y: .270000011}
+      - {x: 1.70000005, y: .289999992}
+      - {x: 1.72000003, y: .310000002}
+      - {x: 1.72000003, y: .349999994}
+      - {x: 1.70000005, y: .370000005}
+      - {x: 1.11000001, y: .400000006}
+      - {x: .779999971, y: .469999999}
+      - {x: .449999988, y: .409999996}
+      - {x: .419999987, y: .370000005}
+      - {x: .419999987, y: .349999994}
+      - {x: .430000007, y: .300000012}
+      - {x: .419999987, y: .319999993}
+      - {x: .419999987, y: .5}
+      - {x: .610000014, y: .50999999}
+      - {x: .670000017, y: .720000029}
+      - {x: .419999987, y: 1.02999997}
+      - {x: .569999993, y: 1.12}
+      - {x: .540000021, y: 1.29999995}
+      - {x: .379999995, y: 1.33000004}
+      - {x: .330000013, y: 1.60000002}
+      - {x: .25, y: 2.01999998}
+      - {x: .159999996, y: 2.06999993}
+      - {x: .0599999987, y: 2.07999992}
+      - {x: -.360000014, y: 2.07999992}
+      - {x: -.389999986, y: 2.06999993}
+      - {x: -.409999996, y: 1.48000002}
+      - {x: -.409999996, y: 1}
+      - {x: -.5, y: .720000029}
+      - {x: -.800000012, y: .860000014}
+      - {x: -1, y: .870000005}
+      - {x: -1.05999994, y: .689999998}
+      - {x: -1.15999997, y: .579999983}
+      - {x: -1.19000006, y: .50999999}
+      - {x: -1.20000005, y: .460000008}
+      - {x: -1.20000005, y: .400000006}
+      - {x: -1.17999995, y: .319999993}
+      - {x: -1.20000005, y: .230000004}
+      - {x: -1.20000005, y: .790000021}
+      - {x: -1.23000002, y: .839999974}
+      - {x: -1.39999998, y: .829999983}
+      - {x: -1.69000006, y: .790000021}
+      - {x: -1.74000001, y: .75}
+      - {x: -1.75, y: .189999998}
+      - {x: -1.83000004, y: .140000001}
+      - {x: -1.95000005, y: .0399999991}
+      - {x: -1.95000005, y: -.0399999991}
+      - {x: -1.84000003, y: -.140000001}
+      - {x: -1.74000001, y: -.189999998}
+      - {x: -1.74000001, y: -.75999999}
+      - {x: -1.70000005, y: -.790000021}
+      - {x: -1.37, y: -.819999993}
+      - {x: -1.23000002, y: -.819999993}
+      - {x: -1.20000005, y: -.790000021}
+      - {x: -1.20000005, y: -.230000004}
+      - {x: -1.20000005, y: -.460000008}
+      - {x: -1.16999996, y: -.560000002}
+      - {x: -1.10000002, y: -.639999986}
+      - {x: -1.02999997, y: -.860000014}
+      - {x: -.800000012, y: -.879999995}
+      - {x: -.529999971, y: -.709999979}
+      - {x: -.479999989, y: -.810000002}
+      - {x: -.409999996, y: -.99000001}
+      - {x: -.389999986, y: -2.05999994}
+      - {x: -.360000014, y: -2.07999992}
+      - {x: .0599999987, y: -2.07999992}
+      - {x: .180000007, y: -2.05999994}
+      - {x: .270000011, y: -1.95000005}
+      - {x: .340000004, y: -1.38}
+--- !u!114 &11408060
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 154868}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9298e8e2c82d4ba3a03dd12d827a029, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  baseFlightSpeed: 6.75
+  flightSpeed: .0500000007
+  activated: 0
+  rigid2d: {fileID: 5084268}
+  triggerListener: {fileID: 11408524}
+--- !u!114 &11408524
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 154868}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c397139c4b454eb396efdb8819be5ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggered: 0
+--- !u!114 &11480334
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 154868}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bce8a0cd738742dbb8de7e82e8fa48b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  firing: 0
+  disableGuns: 0
+  onscreen: 0
+  fireRate: .0500000007
+  chanceToFireOnscreen: 1
+  initialFireDelay: 0
+  fireRightAway: 0
+  gunSound: {fileID: 8300000, guid: 631d4793b408f4310ac5899fac91b7bb, type: 3}
+  weaponType: 0
+  xOffset: 0
+  yOffset: 0
+  fireDuration: 10
+  pauseFireDuration: .5
+--- !u!114 &11482910
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 154868}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1557c7a8c8cce4aee87c046157b3ebc7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scaleFactor: 1
+--- !u!114 &11488106
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 154868}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40866bab390ef42e2b5fe02e6c775b19, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  totallyDestroy: 1
+  checkOffscreenTop: 1
+  checkOffscreenBottom: 0
+  checkOffscreenRight: 0
+  checkOffscreenLeft: 0
+--- !u!212 &21295958
+SpriteRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 154868}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000e000000000000000, type: 0}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_ImportantGI: 0
+  m_AutoUVMaxDistance: .5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300016, guid: 560a72d1cfd7f490c97ce7fcbed75fd9, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: gunFire.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: gunFire.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: initialFireDelay
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_LocalPosition.z
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: gunSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 631d4793b408f4310ac5899fac91b7bb, type: 3}
+    - target: {fileID: 0}
+      propertyPath: fireDuration
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: scaleFactor
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: rigid2d
+      value: 
+      objectReference: {fileID: 5084268}
+    - target: {fileID: 0}
+      propertyPath: triggerListener
+      value: 
+      objectReference: {fileID: 11408524}
+    - target: {fileID: 0}
+      propertyPath: checkOffscreenTop
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 154868}
+  m_IsPrefabParent: 1

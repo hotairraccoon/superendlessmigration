@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: b0f49c43cfd0441b3a7b5ebdf2af0816
+timeCreated: 1437325051
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: battle-sprites-0007_0
+    21300002: battle-sprites-0007_1
+    21300004: battle-sprites-0007_2
+    21300006: battle-sprites-0007_3
+    21300008: battle-sprites-0007_4
+    21300010: battle-sprites-0007_5
+    21300012: battle-sprites-0007_6
+    21300014: battle-sprites-0007_7
+    21300016: battle-sprites-0007_8
+    21300018: battle-sprites-0007_9
+    21300020: battle-sprites-0007_10
+    21300022: battle-sprites-0007_11
+    21300024: battle-sprites-0007_12
+    21300026: battle-sprites-0007_13
+    21300028: battle-sprites-0007_14
+    21300030: battle-sprites-0007_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: battle-sprites-0007_0
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 819
+        width: 150
+        height: 205
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle-sprites-0007_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 657
+        width: 708
+        height: 367
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle-sprites-0007_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 505
+        width: 227
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle-sprites-0007_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 504
+        width: 214
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle-sprites-0007_4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 505
+        width: 147
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle-sprites-0007_5
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 505
+        width: 257
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle-sprites-0007_6
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 384
+        width: 228
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle-sprites-0007_7
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 385
+        width: 227
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle-sprites-0007_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 306
+        width: 1021
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle-sprites-0007_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 54
+        width: 55
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle-sprites-0007_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 54
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle-sprites-0007_11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 54
+        width: 146
+        height: 206
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle-sprites-0007_12
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 54
+        width: 141
+        height: 187
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle-sprites-0007_13
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 6
+        width: 344
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle-sprites-0007_14
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 5
+        width: 26
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle-sprites-0007_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 4
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 4e643045915aa4cde89639c9060f6721
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: farm_sprites0007_0
+    21300002: farm_sprites0007_1
+    21300004: farm_sprites0007_2
+    21300006: farm_sprites0007_3
+    21300008: farm_sprites0007_4
+    21300010: farm_sprites0007_5
+    21300012: farm_sprites0007_6
+    21300014: farm_sprites0007_7
+    21300016: farm_sprites0007_8
+    21300018: farm_sprites0007_9
+    21300020: farm_sprites0007_10
+    21300022: farm_sprites0007_11
+    21300024: farm_sprites0007_12
+    21300026: farm_sprites0007_13
+    21300028: farm_sprites0007_14
+    21300030: farm_sprites0007_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: farm_sprites0007_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 895
+        width: 55
+        height: 113
+      alignment: 9
+      pivot: {x: .70087105, y: .0274485368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm_sprites0007_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 895
+        width: 62
+        height: 114
+      alignment: 9
+      pivot: {x: .629980028, y: .0133029874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm_sprites0007_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 895
+        width: 62
+        height: 114
+      alignment: 9
+      pivot: {x: .62343967, y: .0142656295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm_sprites0007_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 895
+        width: 62
+        height: 127
+      alignment: 9
+      pivot: {x: .656115115, y: .026765598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm_sprites0007_4
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 895
+        width: 59
+        height: 113
+      alignment: 9
+      pivot: {x: .578021526, y: .00843797531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm_sprites0007_5
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 885
+        width: 86
+        height: 122
+      alignment: 9
+      pivot: {x: .666561723, y: .030349981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm_sprites0007_6
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 935
+        width: 179
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm_sprites0007_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 772
+        width: 131
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm_sprites0007_8
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 771
+        width: 843
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm_sprites0007_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 576
+        width: 526
+        height: 184
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm_sprites0007_10
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 668
+        width: 422
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm_sprites0007_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 429
+        width: 679
+        height: 137
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm_sprites0007_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 17
+        width: 580
+        height: 398
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm_sprites0007_13
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 139
+        width: 94
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm_sprites0007_14
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 75
+        width: 117
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm_sprites0007_15
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 17
+        width: 99
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

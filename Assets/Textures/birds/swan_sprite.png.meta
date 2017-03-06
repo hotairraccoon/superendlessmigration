@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: 39c3d78d0297942ce8286771f04fd953
+timeCreated: 1431138900
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: swan_sprite_0
+    21300002: swan_sprite_1
+    21300004: swan_sprite_2
+    21300006: swan_sprite_3
+    21300008: swan_sprite_4
+    21300010: swan_sprite_5
+    21300012: swan_sprite_6
+    21300014: swan_sprite_7
+    21300016: swan_sprite_8
+    21300018: swan_sprite_9
+    21300020: swan_sprite_10
+    21300022: swan_sprite_11
+    21300024: swan_sprite_12
+    21300026: swan_sprite_13
+    21300028: swan_sprite_14
+    21300030: swan_sprite_15
+    21300032: swan_sprite_16
+    21300034: swan_sprite_17
+    21300036: swan_sprite_18
+    21300038: swan_sprite_19
+    21300040: swan_sprite_20
+    21300042: swan_sprite_21
+    21300044: swan_sprite_22
+    21300046: swan_sprite_23
+    21300048: swan_sprite_24
+    21300050: swan_sprite_25
+    21300052: swan_sprite_26
+    21300054: swan_sprite_27
+    21300056: swan_sprite_28
+    21300058: swan_sprite_29
+    21300060: swan_sprite_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: swan_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 831
+        width: 190
+        height: 179
+      alignment: 9
+      pivot: {x: .511052668, y: .505028069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 825
+        width: 190
+        height: 192
+      alignment: 9
+      pivot: {x: .507894754, y: .501562774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 822
+        width: 190
+        height: 199
+      alignment: 9
+      pivot: {x: .509473622, y: .500000298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 827
+        width: 190
+        height: 189
+      alignment: 9
+      pivot: {x: .509246826, y: .500000298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 828
+        width: 190
+        height: 187
+      alignment: 9
+      pivot: {x: .508421242, y: .500000298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 629
+        width: 190
+        height: 184
+      alignment: 9
+      pivot: {x: .51000005, y: .500543654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 638
+        width: 190
+        height: 166
+      alignment: 9
+      pivot: {x: .510606468, y: .500422835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 662
+        width: 190
+        height: 118
+      alignment: 9
+      pivot: {x: .508947432, y: .501695037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 673
+        width: 190
+        height: 97
+      alignment: 9
+      pivot: {x: .508947432, y: .496907353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 687
+        width: 190
+        height: 67
+      alignment: 9
+      pivot: {x: .513994098, y: .508575916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 484
+        width: 190
+        height: 69
+      alignment: 9
+      pivot: {x: .50984937, y: .536693633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 473
+        width: 190
+        height: 97
+      alignment: 9
+      pivot: {x: .511923671, y: .495083213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 462
+        width: 190
+        height: 117
+      alignment: 9
+      pivot: {x: .509869695, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 438
+        width: 190
+        height: 166
+      alignment: 9
+      pivot: {x: .510526299, y: .498192847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 429
+        width: 190
+        height: 184
+      alignment: 9
+      pivot: {x: .510526299, y: .499456644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 228
+        width: 190
+        height: 188
+      alignment: 9
+      pivot: {x: .510896623, y: .501573265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 228
+        width: 190
+        height: 189
+      alignment: 9
+      pivot: {x: .507894754, y: .498412937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 223
+        width: 190
+        height: 199
+      alignment: 9
+      pivot: {x: .507368565, y: .500000179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 226
+        width: 190
+        height: 192
+      alignment: 9
+      pivot: {x: .51000011, y: .500521004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 233
+        width: 188
+        height: 176
+      alignment: 9
+      pivot: {x: .509482205, y: .505362093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 11
+        width: 81
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 17
+        width: 81
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 23
+        width: 81
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 36
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 38
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 36
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 23
+        width: 81
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 17
+        width: 81
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 11
+        width: 81
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swan_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 9
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

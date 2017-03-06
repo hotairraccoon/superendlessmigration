@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: PuffySmoke High - RimLight
+  m_Shader: {fileID: 4800000, guid: 099c44beb12a62f4b96e6b12149de8d2, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: dc862f3e5528cd04488e74035073eaff, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 460a39ae632edeb47b9dc481aef58f79, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailTex2
+        second:
+          m_Texture: {fileID: 2800000, guid: e0fd6a4930877cf46b85cf41927c84db, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _InvFade
+        second: .687611938
+      data:
+        first:
+          name: _FadeIn
+        second: 9.99999975e-05
+      data:
+        first:
+          name: _Opacity
+        second: .402985066
+      data:
+        first:
+          name: _Scattering
+        second: .656716406
+      data:
+        first:
+          name: _EmissiveDensity
+        second: 1
+      data:
+        first:
+          name: _Density
+        second: .25373134
+      data:
+        first:
+          name: _Sharpness
+        second: 1.94029856
+      data:
+        first:
+          name: _DetailsSpeed
+        second: .364626855
+      data:
+        first:
+          name: _DetailsFadeout
+        second: 0
+      data:
+        first:
+          name: _LightProgression
+        second: .582089543
+      data:
+        first:
+          name: _MaxOpacity
+        second: .261193991
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _ShadowColor
+        second: {r: 0, g: 0, b: 0, a: 0}
+      data:
+        first:
+          name: _TintColor
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _EnvironmentColor
+        second: {r: 0, g: 0, b: .368627459, a: 1}

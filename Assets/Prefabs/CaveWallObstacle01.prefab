@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &161174
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 486192}
+  - 60: {fileID: 6070672}
+  m_Layer: 0
+  m_Name: CaveWallObstacle01
+  m_TagString: Wall
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &486192
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 161174}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -6.00472164, y: 4.23549652, z: .001953125}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!60 &6070672
+PolygonCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 161174}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_Offset: {x: 0, y: 0}
+  m_Points:
+    m_Paths:
+    - - {x: 2.33261347, y: 5.46141052}
+      - {x: 1.90705204, y: 3.59187317}
+      - {x: 1.87473965, y: 1.65946198}
+      - {x: .651438713, y: .104598999}
+      - {x: .636916161, y: -.603034973}
+      - {x: 1.25329781, y: -1.29414368}
+      - {x: 1.17609024, y: -2.2070694}
+      - {x: -1.22710991, y: -2.34339142}
+      - {x: -3.05818081, y: -1.95115662}
+      - {x: -6.95471287, y: -1.33985901}
+      - {x: -7.23683071, y: -1.0727005}
+      - {x: -7.73733997, y: -1.56193542}
+      - {x: -10.3981123, y: -1.76029205}
+      - {x: -10.3247061, y: 5.37223816}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 161174}
+  m_IsPrefabParent: 1

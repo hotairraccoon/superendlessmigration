@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &168208
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 499118}
+  - 114: {fileID: 11490720}
+  - 114: {fileID: 11472166}
+  - 58: {fileID: 5814856}
+  m_Layer: 0
+  m_Name: MustardGasEmitter
+  m_TagString: PoisonGas
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &499118
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 168208}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: .779999971, y: 110.440002, z: 100}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!58 &5814856
+CircleCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 168208}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 3.02999115
+--- !u!114 &11472166
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 168208}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a57fd7b87f899b48a331fbc85ca1a8a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  puffyRenderer: {fileID: 0}
+  autoEmit: 1
+  autoAssign: 1
+  autoRendererName: 
+  freezed: 0
+  lifeTime: 4
+  lifeTimeVariation: 1
+  positionVariation: {x: .25, y: .25, z: 0}
+  startDirection: {x: 0, y: 0, z: 0}
+  startDirectionVariation: {x: 1, y: 1, z: 1}
+  startSize: 0
+  endSize: 8
+  startSizeVariation: 0
+  endSizeVariation: 4
+  startSpeed: 1
+  startSpeedVariation: .5
+  startColor: {r: .786764741, g: .676210761, b: .344548732, a: .721568644}
+  endColor: {r: .904411793, g: .795900762, b: .377358049, a: .486274511}
+  startColorVariation: {r: 0, g: 0, b: 0, a: .282352954}
+  endColorVariation: {r: 0, g: 0, b: 0, a: .282352954}
+  colorGradient: {fileID: 0}
+  colorGradientEndTime: 1
+  maxParticlesDistance: 0
+  colorMode: 0
+  useLuminosity: 1
+  luminosityCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  autoResize: 1
+  chunkSize: 512
+  spawnRate: 100
+  useThread: 1
+  debugIntermediate: 0
+  trailMode: 0
+  trailStepDistance: .100000001
+  autoTrailStep: 1
+  autoTrailStepFactor: .0549999997
+  autoTrailStepRatio: .5
+  subParticlesCount: 0
+  subParticlesCounter: 0
+  subParticlesRatio: .5
+  shapeSpawner: {fileID: 0}
+  multiSpawner: {fileID: 0}
+  hasGradient: 0
+--- !u!114 &11490720
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 168208}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8eca9525965d1bc4bb0dccaf813577ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  perf_foldout: 1
+  aspect_foldout: 1
+  visibility_foldout: 1
+  coresSetup: 16384
+  meshSetup: 4096
+  debug: 0
+  render: 1
+  debugMode: 1
+  PassMode: 0
+  updateThreshold: .00999999978
+  _light: {fileID: 0}
+  useAmbientColor: 1
+  cameraBackgroundAsAmbientColor: 0
+  particlesMaterial: {fileID: 2100000, guid: c521611c5431bba47bf69c9d757d8b5a, type: 2}
+  TextureColCount: 8
+  TextureRowCount: 8
+  detailsScaling: .550000012
+  MaxRenderDistance: 1000
+  AutoLOD: 0
+  ScreensizeClipping: 1.5
+  ScreensizeClippingFade: .800000012
+  Emitters: []
+  useThread: 1
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 168208}
+  m_IsPrefabParent: 1

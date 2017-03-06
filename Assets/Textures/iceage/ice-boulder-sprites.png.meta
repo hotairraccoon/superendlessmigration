@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 563eb75e122804448b843ce1538d975e
+timeCreated: 1433205990
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ice-boulder-sprites_0
+    21300002: ice-boulder-sprites_1
+    21300004: ice-boulder-sprites_2
+    21300006: ice-boulder-sprites_3
+    21300008: ice-boulder-sprites_4
+    21300010: ice-boulder-sprites_5
+    21300012: ice-boulder-sprites_6
+    21300014: ice-boulder-sprites_7
+    21300016: ice-boulder-sprites_8
+    21300018: ice-boulder-sprites_9
+    21300020: ice-boulder-sprites_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ice-boulder-sprites_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 803
+        width: 206
+        height: 221
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ice-boulder-sprites_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 816
+        width: 203
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ice-boulder-sprites_2
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 814
+        width: 243
+        height: 208
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ice-boulder-sprites_3
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 787
+        width: 240
+        height: 236
+      alignment: 9
+      pivot: {x: .417077124, y: .493976653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ice-boulder-sprites_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 520
+        width: 261
+        height: 257
+      alignment: 9
+      pivot: {x: .429195553, y: .433624864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ice-boulder-sprites_5
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 534
+        width: 298
+        height: 278
+      alignment: 9
+      pivot: {x: .428446203, y: .382390976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ice-boulder-sprites_6
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 497
+        width: 345
+        height: 290
+      alignment: 9
+      pivot: {x: .425832897, y: .362748355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ice-boulder-sprites_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 240
+        width: 390
+        height: 277
+      alignment: 9
+      pivot: {x: .448970526, y: .417889655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ice-boulder-sprites_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 239
+        width: 413
+        height: 257
+      alignment: 9
+      pivot: {x: .43116048, y: .544250131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ice-boulder-sprites_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 440
+        height: 237
+      alignment: 9
+      pivot: {x: .416000187, y: .6499511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ice-boulder-sprites_10
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 51
+        width: 215
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

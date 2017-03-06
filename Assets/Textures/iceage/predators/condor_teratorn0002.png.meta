@@ -1,0 +1,110 @@
+fileFormatVersion: 2
+guid: d42b72c97698d4afb80484c7b2f408c0
+timeCreated: 1432501658
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: condor_teratorn0002_0
+    21300002: condor_teratorn0002_1
+    21300004: condor_teratorn0002_2
+    21300006: condor_teratorn0002_3
+    21300008: condor_teratorn0002_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: condor_teratorn0002_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 675
+        width: 168
+        height: 224
+      alignment: 9
+      pivot: {x: .56480372, y: .497528881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: condor_teratorn0002_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 622
+        width: 169
+        height: 329
+      alignment: 9
+      pivot: {x: .558960855, y: .500560999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: condor_teratorn0002_2
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 565
+        width: 168
+        height: 444
+      alignment: 9
+      pivot: {x: .559311986, y: .499584585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: condor_teratorn0002_3
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 558
+        width: 169
+        height: 458
+      alignment: 9
+      pivot: {x: .557869256, y: .499597281}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: condor_teratorn0002_4
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 559
+        width: 184
+        height: 456
+      alignment: 9
+      pivot: {x: .515043199, y: .500000119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

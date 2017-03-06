@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 571c1120cea064431a086283701457f9
+timeCreated: 1431058458
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: burning_tree_0
+    21300002: burning_tree_1
+    21300004: burning_tree_2
+    21300006: burning_tree_3
+    21300008: burning_tree_4
+    21300010: burning_tree_5
+    21300012: burning_tree_6
+    21300014: burning_tree_7
+    21300016: burning_tree_8
+    21300018: burning_tree_9
+    21300020: burning_tree_10
+    21300022: burning_tree_11
+    21300024: burning_tree_12
+    21300026: burning_tree_13
+    21300028: burning_tree_14
+    21300030: burning_tree_15
+    21300032: burning_tree_16
+    21300034: burning_tree_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: burning_tree_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 873
+        width: 108
+        height: 145
+      alignment: 9
+      pivot: {x: .407266051, y: .037652377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning_tree_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 858
+        width: 113
+        height: 161
+      alignment: 9
+      pivot: {x: .372174829, y: .0228764322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning_tree_2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 868
+        width: 91
+        height: 152
+      alignment: 9
+      pivot: {x: .422222912, y: .0129146324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning_tree_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 871
+        width: 95
+        height: 146
+      alignment: 9
+      pivot: {x: .469782472, y: .023745602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning_tree_4
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 858
+        width: 109
+        height: 159
+      alignment: 9
+      pivot: {x: .372364849, y: .0290523507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning_tree_5
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 870
+        width: 107
+        height: 150
+      alignment: 9
+      pivot: {x: .402493209, y: .0144441733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning_tree_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 732
+        width: 111
+        height: 130
+      alignment: 9
+      pivot: {x: .35724923, y: .0429236777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning_tree_7
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 727
+        width: 100
+        height: 132
+      alignment: 9
+      pivot: {x: .410554051, y: .0382736661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning_tree_8
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 751
+        width: 99
+        height: 111
+      alignment: 9
+      pivot: {x: .41414389, y: .0405542888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning_tree_9
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 581
+        width: 102
+        height: 134
+      alignment: 9
+      pivot: {x: .390998393, y: .0390483811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning_tree_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 599
+        width: 98
+        height: 116
+      alignment: 9
+      pivot: {x: .454222411, y: .0480930954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning_tree_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 573
+        width: 130
+        height: 138
+      alignment: 9
+      pivot: {x: .321119338, y: .0452885292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning_tree_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 750
+        width: 121
+        height: 110
+      alignment: 9
+      pivot: {x: .325945139, y: .0336769782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning_tree_13
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 735
+        width: 110
+        height: 126
+      alignment: 9
+      pivot: {x: .332121134, y: .0691993386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning_tree_14
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 714
+        width: 94
+        height: 143
+      alignment: 9
+      pivot: {x: .421159446, y: .0232100058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning_tree_15
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 567
+        width: 106
+        height: 146
+      alignment: 9
+      pivot: {x: .401117384, y: .0744853094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning_tree_16
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 556
+        width: 111
+        height: 158
+      alignment: 9
+      pivot: {x: .383000553, y: .0224817973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning_tree_17
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 586
+        width: 114
+        height: 127
+      alignment: 9
+      pivot: {x: .365171999, y: .0325874873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

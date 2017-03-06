@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: 00e874c8fd47c41ce855a9c681873e5d
+timeCreated: 1432167097
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bird_sprites002_0
+    21300002: bird_sprites002_1
+    21300004: bird_sprites002_2
+    21300006: bird_sprites002_3
+    21300008: bird_sprites002_4
+    21300010: bird_sprites002_5
+    21300012: bird_sprites002_6
+    21300014: bird_sprites002_7
+    21300016: bird_sprites002_8
+    21300018: bird_sprites002_9
+    21300020: bird_sprites002_10
+    21300022: bird_sprites002_11
+    21300024: bird_sprites002_12
+    21300026: bird_sprites002_13
+    21300028: bird_sprites002_14
+    21300030: bird_sprites002_15
+    21300032: bird_sprites002_16
+    21300034: bird_sprites002_17
+    21300036: bird_sprites002_18
+    21300038: bird_sprites002_19
+    21300040: bird_sprites002_20
+    21300042: bird_sprites002_21
+    21300044: bird_sprites002_22
+    21300046: bird_sprites002_23
+    21300048: bird_sprites002_24
+    21300050: bird_sprites002_25
+    21300052: bird_sprites002_26
+    21300054: bird_sprites002_27
+    21300056: bird_sprites002_28
+    21300058: bird_sprites002_29
+    21300060: bird_sprites002_30
+    21300062: bird_sprites002_31
+    21300064: bird_sprites002_32
+    21300066: bird_sprites002_33
+    21300068: bird_sprites002_34
+    21300070: bird_sprites002_35
+    21300072: bird_sprites002_36
+    21300074: bird_sprites002_37
+    21300076: bird_sprites002_38
+    21300078: bird_sprites002_39
+    21300080: bird_sprites002_40
+    21300082: bird_sprites002_41
+    21300084: bird_sprites002_42
+    21300086: bird_sprites002_43
+    21300088: bird_sprites002_44
+    21300090: bird_sprites002_45
+    21300092: bird_sprites002_46
+    21300094: bird_sprites002_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bird_sprites002_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 854
+        width: 109
+        height: 156
+      alignment: 9
+      pivot: {x: .6312626, y: .488129824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 843
+        width: 108
+        height: 177
+      alignment: 9
+      pivot: {x: .63806814, y: .497740656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 846
+        width: 108
+        height: 171
+      alignment: 9
+      pivot: {x: .638068318, y: .49649173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_3
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 846
+        width: 109
+        height: 171
+      alignment: 9
+      pivot: {x: .632622123, y: .49649173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_4
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 847
+        width: 108
+        height: 168
+      alignment: 9
+      pivot: {x: .638068318, y: .500000358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_5
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 854
+        width: 108
+        height: 155
+      alignment: 9
+      pivot: {x: .638068318, y: .495484591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_6
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 880
+        width: 113
+        height: 103
+      alignment: 9
+      pivot: {x: .646643162, y: .490291864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_7
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 889
+        width: 112
+        height: 85
+      alignment: 9
+      pivot: {x: .651060939, y: .493508011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_8
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 896
+        width: 108
+        height: 70
+      alignment: 9
+      pivot: {x: .638548672, y: .498572648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 712
+        width: 109
+        height: 70
+      alignment: 9
+      pivot: {x: .632655859, y: .492901623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 696
+        width: 113
+        height: 103
+      alignment: 9
+      pivot: {x: .654689848, y: .494612306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_11
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 665
+        width: 108
+        height: 168
+      alignment: 9
+      pivot: {x: .638657153, y: .495847791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_12
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 662
+        width: 109
+        height: 171
+      alignment: 9
+      pivot: {x: .633239746, y: .497125983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_13
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 663
+        width: 108
+        height: 169
+      alignment: 9
+      pivot: {x: .638657153, y: .495963365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 518
+        width: 99
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 517
+        width: 98
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 517
+        width: 98
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_17
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 517
+        width: 99
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_18
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 522
+        width: 98
+        height: 137
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_19
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 539
+        width: 98
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_20
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 548
+        width: 99
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_21
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 556
+        width: 99
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_22
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 548
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 366
+        width: 99
+        height: 137
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_24
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 361
+        width: 98
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 361
+        width: 98
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_26
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 389
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_27
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 395
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_28
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 350
+        width: 131
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_29
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 359
+        width: 132
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_30
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 367
+        width: 131
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_31
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 219
+        width: 134
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_32
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 219
+        width: 132
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_33
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 219
+        width: 131
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_34
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 195
+        width: 131
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_35
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 187
+        width: 132
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_36
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 178
+        width: 132
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_37
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 179
+        width: 132
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 92
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_39
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 42
+        width: 92
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_40
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 48
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_41
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 54
+        width: 92
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_42
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 72
+        width: 186
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_43
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 72
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_44
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 54
+        width: 92
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_45
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 48
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_46
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 42
+        width: 93
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_sprites002_47
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 42
+        width: 92
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

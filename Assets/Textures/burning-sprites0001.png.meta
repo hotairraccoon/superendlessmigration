@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: eaf202552a3314765be00a39e8432a37
+timeCreated: 1435452999
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: burning-sprites0001_0
+    21300002: burning-sprites0001_1
+    21300004: burning-sprites0001_2
+    21300006: burning-sprites0001_3
+    21300008: burning-sprites0001_4
+    21300010: burning-sprites0001_5
+    21300012: burning-sprites0001_6
+    21300014: burning-sprites0001_7
+    21300016: burning-sprites0001_8
+    21300018: burning-sprites0001_9
+    21300020: burning-sprites0001_10
+    21300022: burning-sprites0001_11
+    21300024: burning-sprites0001_12
+    21300026: burning-sprites0001_13
+    21300028: burning-sprites0001_14
+    21300030: burning-sprites0001_15
+    21300032: burning-sprites0001_16
+    21300034: burning-sprites0001_17
+    21300036: burning-sprites0001_18
+    21300038: burning-sprites0001_19
+    21300040: burning-sprites0001_20
+    21300042: burning-sprites0001_21
+    21300044: burning-sprites0001_22
+    21300046: burning-sprites0001_23
+    21300048: burning-sprites0001_24
+    21300050: burning-sprites0001_25
+    21300052: burning-sprites0001_26
+    21300054: burning-sprites0001_27
+    21300056: burning-sprites0001_28
+    21300058: burning-sprites0001_29
+    21300060: burning-sprites0001_30
+    21300062: burning-sprites0001_31
+    21300064: burning-sprites0001_32
+    21300066: burning-sprites0001_33
+    21300068: burning-sprites0001_34
+    21300070: burning-sprites0001_35
+    21300072: burning-sprites0001_36
+    21300074: burning-sprites0001_37
+    21300076: burning-sprites0001_38
+    21300078: burning-sprites0001_39
+    21300080: burning-sprites0001_40
+    21300082: burning-sprites0001_41
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: burning-sprites0001_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 772
+        width: 121
+        height: 228
+      alignment: 9
+      pivot: {x: .467088819, y: .0418342464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 773
+        width: 136
+        height: 250
+      alignment: 9
+      pivot: {x: .400735408, y: .0387963876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_3
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 656
+        width: 27
+        height: 34
+      alignment: 9
+      pivot: {x: 5.59243679, y: -.460449219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_4
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 773
+        width: 124
+        height: 233
+      alignment: 9
+      pivot: {x: .485972255, y: .0396325104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_5
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 773
+        width: 137
+        height: 251
+      alignment: 9
+      pivot: {x: .383613974, y: .0379966944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 772
+        width: 156
+        height: 237
+      alignment: 9
+      pivot: {x: .337457716, y: .0406089798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_9
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 772
+        width: 126
+        height: 241
+      alignment: 9
+      pivot: {x: .393139541, y: .0397787131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_10
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 772
+        width: 133
+        height: 215
+      alignment: 9
+      pivot: {x: .368081003, y: .046444349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 538
+        width: 119
+        height: 215
+      alignment: 9
+      pivot: {x: .403964132, y: .0443873219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 538
+        width: 112
+        height: 215
+      alignment: 9
+      pivot: {x: .423471302, y: .0453366302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_14
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 538
+        width: 123
+        height: 215
+      alignment: 9
+      pivot: {x: .402109772, y: .0443873219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_15
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 538
+        width: 116
+        height: 215
+      alignment: 9
+      pivot: {x: .410578758, y: .0450053364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_16
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 538
+        width: 132
+        height: 235
+      alignment: 9
+      pivot: {x: .382249773, y: .0410626344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_17
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 538
+        width: 132
+        height: 215
+      alignment: 9
+      pivot: {x: .429910839, y: .043865826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_18
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 538
+        width: 118
+        height: 216
+      alignment: 9
+      pivot: {x: .452221364, y: .0447441377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 319
+        width: 136
+        height: 215
+      alignment: 9
+      pivot: {x: .446503907, y: .0783089548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_22
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 326
+        width: 123
+        height: 182
+      alignment: 9
+      pivot: {x: .468150079, y: .115623891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_23
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 328
+        width: 137
+        height: 206
+      alignment: 9
+      pivot: {x: .377448529, y: .0924867764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 318
+        width: 118
+        height: 180
+      alignment: 9
+      pivot: {x: .509485662, y: .0771521702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_26
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 317
+        width: 154
+        height: 195
+      alignment: 9
+      pivot: {x: .390977144, y: .10393896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_27
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 326
+        width: 126
+        height: 188
+      alignment: 9
+      pivot: {x: .411166728, y: .101099543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_28
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 330
+        width: 131
+        height: 159
+      alignment: 9
+      pivot: {x: .393196404, y: .105780065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_31
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 106
+        width: 115
+        height: 146
+      alignment: 9
+      pivot: {x: .422135592, y: .112843707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_32
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 112
+        width: 132
+        height: 195
+      alignment: 9
+      pivot: {x: .394005507, y: .0752390176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_35
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 118
+        width: 118
+        height: 172
+      alignment: 9
+      pivot: {x: .466800481, y: .0965302065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_37
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 122
+        width: 116
+        height: 171
+      alignment: 9
+      pivot: {x: .475877106, y: .113807634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_38
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 115
+        width: 91
+        height: 130
+      alignment: 9
+      pivot: {x: .684500575, y: .142684117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_39
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 108
+        width: 125
+        height: 141
+      alignment: 9
+      pivot: {x: .567158222, y: .134837106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burning-sprites0001_41
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 116
+        width: 133
+        height: 142
+      alignment: 9
+      pivot: {x: .407426178, y: .125585422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

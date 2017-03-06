@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: PuffyCloud
+  m_Shader: {fileID: 4800000, guid: b66fbbe7c4dca5349bca32bc74f98516, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 790a1477062ad0d4ebefd7315b75d5ae, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DecalTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 32cf1bfee0f51384bbe13ddc4c8b8337, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailTex2
+        second:
+          m_Texture: {fileID: 2800000, guid: 081d256aaba878f40b10ecd5459f4acd, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Illum
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Cutoff
+        second: 1
+      data:
+        first:
+          name: _Shininess
+        second: .078125
+      data:
+        first:
+          name: _InvFade
+        second: .00999999978
+      data:
+        first:
+          name: _FadeIn
+        second: 0
+      data:
+        first:
+          name: _Opacity
+        second: .208955228
+      data:
+        first:
+          name: _Scattering
+        second: .134328365
+      data:
+        first:
+          name: _EmissiveDensity
+        second: 0
+      data:
+        first:
+          name: _Density
+        second: .0895522386
+      data:
+        first:
+          name: _Sharpness
+        second: .0656716377
+      data:
+        first:
+          name: _DetailsSpeed
+        second: .0358208977
+      data:
+        first:
+          name: _EmissionLM
+        second: 0
+      data:
+        first:
+          name: _DetailsFadeout
+        second: 0
+      data:
+        first:
+          name: _LightProgression
+        second: .582089543
+      data:
+        first:
+          name: _MaxOpacity
+        second: .261193991
+      data:
+        first:
+          name: _LightIntensity
+        second: 1
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: .5, g: .5, b: .5, a: 1}
+      data:
+        first:
+          name: _ShadowColor
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _TintColor
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _Emission
+        second: {r: 0, g: 0, b: 0, a: 0}
+      data:
+        first:
+          name: _EnvironmentColor
+        second: {r: 0, g: 0, b: .368627459, a: 1}

@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 055b6df66c2dd4ee69d94f42f26a1f91
+timeCreated: 1440120981
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mammoth_0
+    21300002: mammoth_1
+    21300004: mammoth_2
+    21300006: mammoth_3
+    21300008: mammoth_4
+    21300010: mammoth_5
+    21300012: mammoth_6
+    21300014: mammoth_7
+    21300016: mammoth_8
+    21300018: mammoth_9
+    21300020: mammoth_10
+    21300022: mammoth_11
+    21300024: mammoth_12
+    21300026: mammoth_13
+    21300028: mammoth_14
+    21300030: mammoth_15
+    21300032: mammoth_16
+    21300034: mammoth_17
+    21300036: mammoth_18
+    21300038: mammoth_19
+    21300040: mammoth_20
+    21300042: mammoth_21
+    21300044: mammoth_22
+    21300046: mammoth_23
+    21300048: mammoth_24
+    21300050: mammoth_25
+    21300052: mammoth_26
+    21300054: mammoth_27
+    21300056: mammoth_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mammoth_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 883
+        width: 199
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 883
+        width: 199
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_2
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 883
+        width: 200
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_3
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 883
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_4
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 883
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 728
+        width: 201
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 728
+        width: 200
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_7
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 728
+        width: 201
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_8
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 728
+        width: 201
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_9
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 728
+        width: 200
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 580
+        width: 200
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 580
+        width: 200
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_12
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 580
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_13
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 580
+        width: 200
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_14
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 580
+        width: 199
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 427
+        width: 200
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 427
+        width: 200
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_17
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 427
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_18
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 428
+        width: 201
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_19
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 428
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 277
+        width: 200
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 277
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_22
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 277
+        width: 200
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_23
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 277
+        width: 200
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_24
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 276
+        width: 200
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 122
+        width: 200
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_26
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 122
+        width: 200
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_27
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 121
+        width: 200
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth_28
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 121
+        width: 200
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

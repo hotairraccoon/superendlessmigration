@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: 1ea829c70a78545269741dff6cf91701
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lantern0_0
+    21300002: lantern0_1
+    21300004: lantern0_2
+    21300006: lantern0_3
+    21300008: lantern0_4
+    21300010: lantern0_5
+    21300012: lantern0_6
+    21300014: lantern0_7
+    21300016: lantern0_8
+    21300018: lantern0_9
+    21300020: lantern0_10
+    21300022: lantern0_11
+    21300024: lantern0_12
+    21300026: lantern0_13
+    21300028: lantern0_14
+    21300030: lantern0_15
+    21300032: lantern0_16
+    21300034: lantern0_17
+    21300036: lantern0_18
+    21300038: lantern0_19
+    21300040: lantern0_20
+    21300042: lantern0_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: lantern0_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 462
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lantern0_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 462
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lantern0_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 462
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lantern0_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 462
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lantern0_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 462
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lantern0_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 462
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lantern0_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 462
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lantern0_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 416
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lantern0_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 416
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lantern0_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 416
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lantern0_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 416
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lantern0_11
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 416
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lantern0_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 416
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lantern0_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 416
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lantern0_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 320
+        width: 37
+        height: 94
+      alignment: 9
+      pivot: {x: .5, y: .75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lantern0_15
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 320
+        width: 37
+        height: 94
+      alignment: 9
+      pivot: {x: .525240183, y: .75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lantern0_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 320
+        width: 37
+        height: 94
+      alignment: 9
+      pivot: {x: .5, y: .75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lantern0_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 320
+        width: 37
+        height: 94
+      alignment: 9
+      pivot: {x: .5, y: .75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lantern0_18
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 320
+        width: 37
+        height: 94
+      alignment: 9
+      pivot: {x: .5, y: .75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lantern0_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 320
+        width: 37
+        height: 94
+      alignment: 9
+      pivot: {x: .5, y: .75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lantern0_20
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 320
+        width: 37
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lantern0_21
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 320
+        width: 37
+        height: 94
+      alignment: 9
+      pivot: {x: .5, y: .75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

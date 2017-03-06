@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bird
+  - Wave
+  - Firework
+  - Feather
+  - Car
+  - BurningTree
+  - Aircraft
+  - Cursor
+  - PoisonGas
+  - BoostTrail
+  - Predator
+  - PredatorBeak
+  - PredatorStrikeRadius
+  - Wall
+  - CaveWall
+  - CaveEntrance
+  - BoulderSpawner
+  - SoldierShoot
+  - SoldierDeath
+  - SoldierRun
+  - Bullet
+  - MuzzleFlash
+  - DogfightFire
+  - Gunfire
+  - SongRadius
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Clouds
+  - UI Text
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background2_behind_ocean3
+    uniqueID: 3467611261
+    locked: 0
+  - name: ocean3
+    uniqueID: 809171877
+    locked: 0
+  - name: background2_behind_ocean2
+    uniqueID: 226586735
+    locked: 0
+  - name: ocean2
+    uniqueID: 3056493771
+    locked: 0
+  - name: background2_behind_ocean1
+    uniqueID: 3260169667
+    locked: 0
+  - name: ocean1
+    uniqueID: 2776245191
+    locked: 0
+  - name: background 1
+    uniqueID: 2247897273
+    locked: 0
+  - name: background1_carsandpeople
+    uniqueID: 3852722347
+    locked: 0
+  - name: background1_buildings
+    uniqueID: 793944935
+    locked: 0
+  - name: clouds_lower
+    uniqueID: 4208721923
+    locked: 0
+  - name: trails
+    uniqueID: 2625070321
+    locked: 0
+  - name: birds
+    uniqueID: 1011353563
+    locked: 0
+  - name: planes
+    uniqueID: 3658375227
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: clouds_higher
+    uniqueID: 4284681585
+    locked: 0

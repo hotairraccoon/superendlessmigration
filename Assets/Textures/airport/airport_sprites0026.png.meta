@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 5daa323616a634cf0aae35ff732cfcc0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: airport_sprites0026_0
+    21300002: airport_sprites0026_1
+    21300004: airport_sprites0026_2
+    21300006: airport_sprites0026_3
+    21300008: airport_sprites0026_4
+    21300010: airport_sprites0026_5
+    21300012: airport_sprites0026_6
+    21300014: airport_sprites0026_7
+    21300016: airport_sprites0026_8
+    21300018: airport_sprites0026_9
+    21300020: airport_sprites0026_10
+    21300022: airport_sprites0026_11
+    21300024: airport_sprites0026_12
+    21300026: airport_sprites0026_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: airport_sprites0026_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 171
+        width: 415
+        height: 847
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: airport_sprites0026_1
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 547
+        width: 347
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: airport_sprites0026_2
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 626
+        width: 139
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: airport_sprites0026_3
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 547
+        width: 144
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: airport_sprites0026_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 75
+        width: 107
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: airport_sprites0026_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 85
+        width: 193
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: airport_sprites0026_6
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 88
+        width: 108
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: airport_sprites0026_7
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 25
+        width: 523
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: airport_sprites0026_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 11
+        width: 84
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: airport_sprites0026_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 17
+        width: 193
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: airport_sprites0026_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 13
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: airport_sprites0026_11
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 13
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 2f6df3f8e1cdc4d13914b48911547fd3
+timeCreated: 1439437643
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: meteor-big0001_0
+    21300002: meteor-big0001_3
+    21300004: meteor-big0001_4
+    21300006: meteor-big0001_6
+    21300008: meteor-big0001_7
+    21300010: meteor-big0001_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: meteor-big0001_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 731
+        width: 390
+        height: 292
+      alignment: 9
+      pivot: {x: .751257539, y: .565252244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meteor-big0001_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 746
+        width: 501
+        height: 263
+      alignment: 9
+      pivot: {x: .804250658, y: .515524268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meteor-big0001_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 439
+        width: 530
+        height: 288
+      alignment: 9
+      pivot: {x: .823553324, y: .509451151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meteor-big0001_6
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 422
+        width: 461
+        height: 315
+      alignment: 9
+      pivot: {x: .795222938, y: .577770054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meteor-big0001_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 132
+        width: 381
+        height: 280
+      alignment: 9
+      pivot: {x: .717899442, y: .582630813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meteor-big0001_9
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 88
+        width: 474
+        height: 316
+      alignment: 9
+      pivot: {x: .798611283, y: .590444565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

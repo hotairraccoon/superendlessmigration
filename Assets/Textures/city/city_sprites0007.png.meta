@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 8101552ddfd564cd1a1d0a371d951d0b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: city_sprites0007_0
+    21300002: city_sprites0007_1
+    21300004: city_sprites0007_2
+    21300006: city_sprites0007_3
+    21300008: city_sprites0007_4
+    21300010: city_sprites0007_5
+    21300012: city_sprites0007_6
+    21300014: city_sprites0007_7
+    21300016: city_sprites0007_8
+    21300018: city_sprites0007_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: city_sprites0007_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 603
+        width: 213
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city_sprites0007_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 641
+        width: 213
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city_sprites0007_2
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 641
+        width: 213
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city_sprites0007_3
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 641
+        width: 213
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city_sprites0007_4
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 830
+        width: 123
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city_sprites0007_5
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 653
+        width: 121
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city_sprites0007_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 213
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city_sprites0007_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 9
+        width: 265
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city_sprites0007_8
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 9
+        width: 284
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city_sprites0007_9
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 9
+        width: 213
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

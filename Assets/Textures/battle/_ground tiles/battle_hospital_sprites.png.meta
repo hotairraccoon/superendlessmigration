@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 87158aa34f13b4874b821c51b4c34bce
+timeCreated: 1438313718
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: battle_hospital_sprites_0
+    21300002: battle_hospital_sprites_1
+    21300004: battle_hospital_sprites_2
+    21300006: battle_hospital_sprites_3
+    21300008: battle_hospital_sprites_4
+    21300010: battle_hospital_sprites_5
+    21300012: battle_hospital_sprites_6
+    21300014: battle_hospital_sprites_7
+    21300016: battle_hospital_sprites_8
+    21300018: battle_hospital_sprites_9
+    21300020: battle_hospital_sprites_10
+    21300022: battle_hospital_sprites_11
+    21300024: battle_hospital_sprites_12
+    21300026: battle_hospital_sprites_13
+    21300028: battle_hospital_sprites_14
+    21300030: battle_hospital_sprites_15
+    21300032: battle_hospital_sprites_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: battle_hospital_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 842
+        width: 995
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle_hospital_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 659
+        width: 635
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle_hospital_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 798
+        width: 77
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle_hospital_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 459
+        width: 166
+        height: 372
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle_hospital_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 761
+        width: 76
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle_hospital_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 610
+        width: 108
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle_hospital_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 610
+        width: 109
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle_hospital_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 462
+        width: 190
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle_hospital_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 564
+        width: 109
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle_hospital_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 564
+        width: 109
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle_hospital_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 512
+        width: 108
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle_hospital_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 512
+        width: 109
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle_hospital_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 467
+        width: 109
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle_hospital_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 467
+        width: 109
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle_hospital_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 733
+        width: 78
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle_hospital_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 708
+        width: 81
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battle_hospital_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 320
+        width: 131
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

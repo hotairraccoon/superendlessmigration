@@ -1,0 +1,110 @@
+fileFormatVersion: 2
+guid: 7dc3c771a432844ccb1a8c7b69b2b0b2
+timeCreated: 1440724470
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: post-sprites0002_0
+    21300002: post-sprites0002_1
+    21300004: post-sprites0002_2
+    21300006: post-sprites0002_4
+    21300008: post-sprites0002_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: post-sprites0002_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 375
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: post-sprites0002_1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 421
+        width: 378
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: post-sprites0002_2
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 737
+        width: 257
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: post-sprites0002_4
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 527
+        width: 236
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: post-sprites0002_5
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2
+        width: 519
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

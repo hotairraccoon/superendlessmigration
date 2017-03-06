@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &189126
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 411320}
+  - 60: {fileID: 6074120}
+  m_Layer: 0
+  m_Name: CaveOpening
+  m_TagString: CaveEntrance
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &411320
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 189126}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!60 &6074120
+PolygonCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 189126}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_Offset: {x: 0, y: 0}
+  m_Points:
+    m_Paths:
+    - - {x: -5.00263119, y: 4.62935638}
+      - {x: -4.20210075, y: 6.00009918}
+      - {x: -3.53115845, y: 9.36187744}
+      - {x: -2.73885441, y: 8.88671875}
+      - {x: -1.06228876, y: 9.962677}
+      - {x: -.00170564651, y: 9.35076904}
+      - {x: .743288279, y: 10.4997406}
+      - {x: 2.03698516, y: 10.9144745}
+      - {x: 3.1644702, y: 10.97789}
+      - {x: 4.91628695, y: 8.82794189}
+      - {x: 5.47894955, y: 9.48791504}
+      - {x: 6.76560926, y: 7.47042084}
+      - {x: 7.47112751, y: 8.01623535}
+      - {x: 9.55893326, y: 6.150383}
+      - {x: 9.16964817, y: 4.69589996}
+      - {x: 9.91391182, y: 4.02780914}
+      - {x: 9.94946575, y: 3.37727356}
+      - {x: 5.70214367, y: 4.41938782}
+      - {x: 2.46994352, y: 4.91721344}
+      - {x: -1.31886148, y: 4.42839813}
+      - {x: -4.65855408, y: 2.96748352}
+      - {x: -5.31609726, y: 3.644104}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 189126}
+  m_IsPrefabParent: 1
